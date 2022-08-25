@@ -1,0 +1,17 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "lldb",
+      "request": "launch",
+      "args": ["Hello, Fuck!", ","],
+      //"stopAtEntry": true,
+      //"externalConsole": false,
+      "cwd": "/Users/tate-minch/Documents/split",
+      //"program": "/Users/tate-minch/Desktop/split/build/Debug/outDebug",
+      "program": "/Users/tate-minch/Documents/split/split",
+      //"MIMode": "gdb"
+    }
+  ]
+}
