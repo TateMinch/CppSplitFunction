@@ -29,5 +29,6 @@ int main(int argc, char *argv[]){
     vector<string> test = split(argv[1], *argv[2]);
     for(int i = 0; i < test.size(); i++)
         cout << test[i] << endl;
+    //This comment is a test for git commit from vscode
     return 0;
 }
